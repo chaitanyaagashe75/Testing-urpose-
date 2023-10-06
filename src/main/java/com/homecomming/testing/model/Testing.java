@@ -16,4 +16,4 @@ public class Testing {
 
 }
 
-// This is the model Class
+// This is the model for testing
