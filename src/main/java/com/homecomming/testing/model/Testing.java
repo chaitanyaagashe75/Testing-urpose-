@@ -15,3 +15,5 @@ public class Testing {
     String testing_time;
 
 }
+
+// This is the model Class
